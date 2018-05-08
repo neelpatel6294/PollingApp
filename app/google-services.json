@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "287570526229",
+    "firebase_url": "https://pollingappps.firebaseio.com",
+    "project_id": "pollingappps",
+    "storage_bucket": "pollingappps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287570526229:android:5c5968b3f70ed37c",
+        "android_client_info": {
+          "package_name": "com.example.PollingApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287570526229-b2bncc8dbfn54jomst4qonvg56knmn7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.PollingApp",
+            "certificate_hash": "5a70083fff9f25d5fb849bc6ec5258ae23631458"
+          }
+        },
+        {
+          "client_id": "287570526229-sh9dmspk8h4jni8li6mtja1apedhmao7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3V-jZEGv0CFrczePMiB-zAV_gfN4Jps0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287570526229-sh9dmspk8h4jni8li6mtja1apedhmao7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
